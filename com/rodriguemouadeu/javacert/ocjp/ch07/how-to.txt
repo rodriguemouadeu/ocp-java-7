@@ -1,0 +1,9 @@
+to run code in package:
+1- Switch to root folder 
+$> cd c:\workspace-ocjp\ocp-java-7
+
+2- Compile main class providing path to file 
+$> javac com\rodriguemouadeu\javacert\ocjp\ch07\TryWithResources.java
+
+3- Run program
+$> javac com/rodriguemouadeu/javacert/ocjp/ch07/TryWithResources 
